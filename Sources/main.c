@@ -1,5 +1,5 @@
 /* ###################################################################
-**     Filename    : main.c prueba
+**     Filename    : main.c 
 **     Project     : Zumo
 **     Processor   : MKL25Z128VLK4
 **     Version     : Driver 01.01
